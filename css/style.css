@@ -67,3 +67,11 @@ margin-top: 0;
 	}
 }
 /* ####### Acá va su código ####### */
+.fotos{
+	width: 150px;
+	display: block;
+	margin: 10px;
+}
+.fotos:hover{
+	background-color: red;
+}
